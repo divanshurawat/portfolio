@@ -40,7 +40,7 @@ const Home = () => {
               <Mail size={24} />
             </a>
           </div>
-          <a href='https://drive.google.com/file/d/1pv99cAWMv58l_q9FXAXlXwGTEcuu7bo1/view?usp=sharing'  className="bg-indigo-600 hover:bg-indigo-700 dark:bg-indigo-500 dark:hover:bg-indigo-600 text-white font-semibold py-3 px-8 rounded-lg transition-colors">
+          <a href='https://drive.google.com/file/d/1Epielcorrkt_bEl6htobM2VEHDDynZGT/view?usp=sharing'  className="bg-indigo-600 hover:bg-indigo-700 dark:bg-indigo-500 dark:hover:bg-indigo-600 text-white font-semibold py-3 px-8 rounded-lg transition-colors">
             See Resume
           </a>
         </div>
